@@ -9,13 +9,21 @@
     "start": "wp-scripts start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Deborah Fashoro",
+  "license": "MIT",
   "devDependencies": {
     "@wordpress/scripts": "^25.4.0",
     "recharts": "^2.4.3"
   },
   "dependencies": {
     "recharts": "^2.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebyGrey/wp-dashboard-gragh-widget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DebyGrey/wp-dashboard-gragh-widget/issues"
+  },
+  "homepage": "https://github.com/DebyGrey/wp-dashboard-gragh-widget#readme"
 }
