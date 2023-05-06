@@ -1,0 +1,21 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "Graph plugin with wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.4.0",
+    "recharts": "^2.4.3"
+  },
+  "dependencies": {
+    "recharts": "^2.4.3"
+  }
+}
